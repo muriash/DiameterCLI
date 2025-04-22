@@ -39,9 +39,8 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-1. Start ```diameterServer.py``` to initialize SCTP listening and handle SCEF connection.
 
-2. Run ```diameterCLI.py for``` interactive console control:
+Run ```diameterCLI.py``` for interactive console control:
 ```bash
 ==============================
       DiameterCLI
